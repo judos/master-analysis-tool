@@ -1,0 +1,52 @@
+<Root>
+ <event>type=healthChange;life=50;time=0.428600</event>
+ <event>type=itemUsed;item=lamps1;time=44.539009</event>
+ <event>type=healthChange;life=51;time=45.129589</event>
+ <event>type=healthChange;life=52;time=45.630890</event>
+ <event>type=healthChange;life=53;time=46.131058</event>
+ <event>type=healthChange;life=54;time=46.631790</event>
+ <event>type=healthChange;life=56;time=47.132229</event>
+ <event>type=healthChange;life=51;time=65.965149</event>
+ <event>type=itemUsed;item=lamps2;time=107.512054</event>
+ <event>type=healthChange;life=53;time=108.080498</event>
+ <event>type=healthChange;life=55;time=108.593689</event>
+ <event>type=healthChange;life=58;time=109.062775</event>
+ <event>type=healthChange;life=63;time=110.105789</event>
+ <event>type=healthChange;life=60;time=109.579330</event>
+ <event>type=itemUsed;item=lamps4;time=120.005600</event>
+ <event>type=healthChange;life=65;time=120.582893</event>
+ <event>type=healthChange;life=67;time=121.054283</event>
+ <event>type=healthChange;life=72;time=122.090134</event>
+ <event>type=healthChange;life=70;time=121.572266</event>
+ <event>type=healthChange;life=75;time=122.564377</event>
+ <event>type=itemUsed;item=door2 open:1;time=165.786423</event>
+ <event>type=itemUsed;item=corridorSwitch on:1;time=195.955750</event>
+ <event>type=itemUsed;item=corridorSwitch on:0;time=196.245300</event>
+ <event>type=itemUsed;item=corridorSwitch on:1;time=199.707550</event>
+ <event>type=itemUsed;item=door2 open:1;time=248.541901</event>
+ <event>type=healthChange;life=70;time=258.859619</event>
+ <event>type=healthChange;life=66;time=260.315308</event>
+ <event>type=healthChange;life=64;time=276.107452</event>
+ <event>type=healthChange;life=58;time=276.907867</event>
+ <event>type=healthChange;life=52;time=277.721436</event>
+ <event>type=healthChange;life=43;time=278.280609</event>
+ <event>type=healthChange;life=39;time=280.048218</event>
+ <event>type=healthChange;life=37;time=295.101593</event>
+ <event>type=healthChange;life=32;time=297.676575</event>
+ <event>type=healthChange;life=28;time=299.440216</event>
+ <event>type=healthChange;life=26;time=309.746979</event>
+ <event>type=healthChange;life=14;time=311.374725</event>
+ <event>type=healthChange;life=20;time=310.557861</event>
+ <event>type=healthChange;life=10;time=312.490662</event>
+ <event>type=healthChange;life=6;time=313.622040</event>
+ <event>type=itemUsed;item=lamps5;time=319.583435</event>
+ <event>type=healthChange;life=8;time=320.139923</event>
+ <event>type=healthChange;life=11;time=320.641022</event>
+ <event>type=healthChange;life=14;time=321.145477</event>
+ <event>type=healthChange;life=14;time=321.665710</event>
+ <event>type=healthChange;life=12;time=321.613922</event>
+ <event>type=healthChange;life=17;time=322.179962</event>
+ <event>type=healthChange;life=11;time=322.434662</event>
+ <event>type=healthChange;life=5;time=323.245361</event>
+ <event>type=event;event=playerDied;time=323.745605</event>
+</Root>

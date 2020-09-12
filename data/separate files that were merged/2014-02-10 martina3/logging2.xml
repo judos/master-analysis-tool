@@ -1,0 +1,28 @@
+<Root>
+ <event>type=areaChange;isOpen=false;time=19.963530</event>
+ <event>type=areaChange;isOpen=true;time=20.049690</event>
+ <event>type=itemUsed;item=lamps12;time=35.524628</event>
+ <event>type=itemUsed;item=checkPoint2;time=35.555149</event>
+ <event>type=healthChange;life=52;time=36.063309</event>
+ <event>type=healthChange;life=54;time=36.569809</event>
+ <event>type=healthChange;life=57;time=37.075710</event>
+ <event>type=healthChange;life=59;time=37.581528</event>
+ <event>type=healthChange;life=62;time=38.058319</event>
+ <event>type=mechEyeUse;available=0;time=40.924828</event>
+ <event>type=mechEyeUse;available=1;time=78.745026</event>
+ <event>type=areaChange;isOpen=false;time=92.533676</event>
+ <event>type=areaChange;isOpen=true;time=94.831940</event>
+ <event>type=healthChange;life=98;time=97.348175</event>
+ <event>type=healthChange;life=92;time=98.130325</event>
+ <event>type=healthChange;life=85;time=98.339119</event>
+ <event>type=areaChange;isOpen=false;time=100.366768</event>
+ <event>type=healthChange;life=83;time=114.535667</event>
+ <event>type=healthChange;life=81;time=126.732506</event>
+ <event>type=healthChange;life=79;time=135.711899</event>
+ <event>type=healthChange;life=73;time=136.088837</event>
+ <event>type=itemUsed;item=cityDoorSwitch on:1;time=144.863434</event>
+ <event>type=healthChange;life=71;time=179.248215</event>
+ <event>type=healthChange;life=69;time=181.658890</event>
+ <event>type=healthChange;life=67;time=195.761612</event>
+ <event>type=event;event=levelSolved;time=207.771942</event>
+</Root>

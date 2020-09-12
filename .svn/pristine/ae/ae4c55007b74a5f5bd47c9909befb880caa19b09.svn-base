@@ -1,0 +1,111 @@
+<Root>
+ <event>type=healthChange;life=50;time=0.476850</event>
+ <event>type=itemUsed;item=lamps1;time=60.363007</event>
+ <event>type=healthChange;life=51;time=60.984219</event>
+ <event>type=healthChange;life=52;time=61.521099</event>
+ <event>type=healthChange;life=54;time=62.473179</event>
+ <event>type=healthChange;life=56;time=62.993668</event>
+ <event>type=itemUsed;item=door2 open:1;time=90.085945</event>
+ <event>type=itemUsed;item=corridorSwitch on:1;time=111.649651</event>
+ <event>type=healthChange;life=54;time=120.727615</event>
+ <event>type=itemUsed;item=door2 open:1;time=190.364609</event>
+ <event>type=healthChange;life=52;time=195.862030</event>
+ <event>type=healthChange;life=50;time=201.597778</event>
+ <event>type=healthChange;life=48;time=217.889389</event>
+ <event>type=healthChange;life=42;time=218.706940</event>
+ <event>type=healthChange;life=36;time=219.525726</event>
+ <event>type=healthChange;life=30;time=220.346603</event>
+ <event>type=healthChange;life=24;time=221.163239</event>
+ <event>type=itemUsed;item=checkPoint1;time=272.941528</event>
+ <event>type=healthChange;life=22;time=297.750824</event>
+ <event>type=healthChange;life=20;time=305.506714</event>
+ <event>type=areaChange;isOpen=true;time=317.603455</event>
+ <event>type=itemUsed;item=roofPanelSwitch;time=320.551422</event>
+ <event>type=mechEyeUse;available=0;time=332.827820</event>
+ <event>type=healthChange;life=18;time=356.234070</event>
+ <event>type=healthChange;life=13;time=358.879639</event>
+ <event>type=areaChange;isOpen=false;time=364.603882</event>
+ <event>type=areaChange;isOpen=true;time=375.420105</event>
+ <event>type=mechEyeUse;available=1;time=379.027374</event>
+ <event>type=areaChange;isOpen=false;time=382.421661</event>
+ <event>type=areaChange;isOpen=true;time=440.360260</event>
+ <event>type=itemUsed;item=lamps6;time=450.261017</event>
+ <event>type=healthChange;life=100;time=450.840240</event>
+ <event>type=healthChange;life=100;time=451.325592</event>
+ <event>type=healthChange;life=100;time=451.864258</event>
+ <event>type=healthChange;life=100;time=452.801270</event>
+ <event>type=healthChange;life=100;time=452.297699</event>
+ <event>type=areaChange;isOpen=false;time=463.135681</event>
+ <event>type=itemUsed;item=elevator up:1;time=474.589600</event>
+ <event>type=healthChange;life=91;time=508.898224</event>
+ <event>type=healthChange;life=90;time=540.297852</event>
+ <event>type=healthChange;life=88;time=542.632874</event>
+ <event>type=healthChange;life=82;time=543.419556</event>
+ <event>type=healthChange;life=76;time=544.221619</event>
+ <event>type=healthChange;life=70;time=545.014893</event>
+ <event>type=healthChange;life=64;time=545.797852</event>
+ <event>type=healthChange;life=58;time=546.601501</event>
+ <event>type=healthChange;life=52;time=547.342712</event>
+ <event>type=healthChange;life=50;time=547.802368</event>
+ <event>type=healthChange;life=48;time=551.678833</event>
+ <event>type=itemUsed;item=lamps11;time=592.977722</event>
+ <event>type=healthChange;life=50;time=593.569336</event>
+ <event>type=healthChange;life=52;time=594.030823</event>
+ <event>type=healthChange;life=55;time=594.537903</event>
+ <event>type=healthChange;life=57;time=595.031494</event>
+ <event>type=healthChange;life=60;time=595.530701</event>
+ <event>type=healthChange;life=44;time=625.118408</event>
+ <event>type=healthChange;life=42;time=630.327942</event>
+ <event>type=healthChange;life=40;time=635.166687</event>
+ <event>type=healthChange;life=34;time=635.952576</event>
+ <event>type=healthChange;life=32;time=636.652283</event>
+ <event>type=healthChange;life=30;time=637.917419</event>
+ <event>type=itemUsed;item=lamps9;time=638.245239</event>
+ <event>type=healthChange;life=32;time=638.812927</event>
+ <event>type=healthChange;life=34;time=639.331482</event>
+ <event>type=healthChange;life=39;time=640.306519</event>
+ <event>type=healthChange;life=37;time=639.816895</event>
+ <event>type=healthChange;life=37;time=640.730469</event>
+ <event>type=healthChange;life=39;time=640.849243</event>
+ <event>type=itemUsed;item=elevator up:0;time=655.151489</event>
+ <event>type=areaChange;isOpen=true;time=670.597290</event>
+ <event>type=mechEyeUse;available=0;time=678.858276</event>
+ <event>type=areaChange;isOpen=false;time=682.957153</event>
+ <event>type=areaChange;isOpen=true;time=724.617493</event>
+ <event>type=mechEyeUse;available=1;time=727.200195</event>
+ <event>type=areaChange;isOpen=false;time=733.781006</event>
+ <event>type=itemUsed;item=elevator up:1;time=754.311829</event>
+ <event>type=healthChange;life=98;time=795.568970</event>
+ <event>type=areaChange;isOpen=true;time=847.940857</event>
+ <event>type=itemUsed;item=checkPoint2;time=870.812012</event>
+ <event>type=areaChange;isOpen=false;time=895.673523</event>
+ <event>type=healthChange;life=96;time=926.447327</event>
+ <event>type=healthChange;life=94;time=935.315613</event>
+ <event>type=healthChange;life=92;time=935.889893</event>
+ <event>type=healthChange;life=86;time=936.708862</event>
+ <event>type=healthChange;life=84;time=939.893311</event>
+ <event>type=healthChange;life=82;time=944.569580</event>
+ <event>type=itemUsed;item=cityDoorSwitch on:1;time=985.263489</event>
+ <event>type=healthChange;life=80;time=1006.192810</event>
+ <event>type=healthChange;life=74;time=1007.009033</event>
+ <event>type=healthChange;life=72;time=1011.366699</event>
+ <event>type=healthChange;life=70;time=1011.874878</event>
+ <event>type=healthChange;life=64;time=1012.680908</event>
+ <event>type=healthChange;life=62;time=1020.913086</event>
+ <event>type=healthChange;life=57;time=1022.380249</event>
+ <event>type=healthChange;life=55;time=1029.856445</event>
+ <event>type=itemUsed;item=cityDoorSwitch on:0;time=1036.648071</event>
+ <event>type=healthChange;life=53;time=1037.148315</event>
+ <event>type=healthChange;life=47;time=1037.963013</event>
+ <event>type=healthChange;life=41;time=1038.748535</event>
+ <event>type=healthChange;life=39;time=1039.172485</event>
+ <event>type=healthChange;life=33;time=1039.546509</event>
+ <event>type=healthChange;life=27;time=1039.969238</event>
+ <event>type=healthChange;life=21;time=1040.345215</event>
+ <event>type=healthChange;life=11;time=1040.612671</event>
+ <event>type=healthChange;life=9;time=1041.139893</event>
+ <event>type=healthChange;life=7;time=1043.570557</event>
+ <event>type=healthChange;life=1;time=1044.348755</event>
+ <event>type=event;event=playerDied;time=1045.197388</event>
+ <event>type=healthChange;life=-3;time=1045.156982</event>
+</Root>

@@ -1,0 +1,48 @@
+<Root>
+ <event>type=healthChange;life=50;time=38.514999</event>
+ <event>type=areaChange;isOpen=true;time=38.636978</event>
+ <event>type=areaChange;isOpen=false;time=56.762638</event>
+ <event>type=areaChange;isOpen=true;time=61.110130</event>
+ <event>type=mechEyeUse;available=0;time=64.005821</event>
+ <event>type=areaChange;isOpen=false;time=75.760597</event>
+ <event>type=healthChange;life=48;time=90.719696</event>
+ <event>type=healthChange;life=41;time=90.821358</event>
+ <event>type=healthChange;life=39;time=91.497307</event>
+ <event>type=healthChange;life=33;time=92.324257</event>
+ <event>type=healthChange;life=28;time=96.083557</event>
+ <event>type=healthChange;life=26;time=97.051758</event>
+ <event>type=healthChange;life=21;time=98.033905</event>
+ <event>type=healthChange;life=19;time=103.677597</event>
+ <event>type=healthChange;life=17;time=110.856346</event>
+ <event>type=healthChange;life=15;time=125.417099</event>
+ <event>type=healthChange;life=13;time=129.150635</event>
+ <event>type=itemUsed;item=checkPoint2;time=130.301895</event>
+ <event>type=itemUsed;item=cityDoorSwitch on:1;time=147.584229</event>
+ <event>type=healthChange;life=11;time=162.284210</event>
+ <event>type=healthChange;life=5;time=163.087097</event>
+ <event>type=healthChange;life=3;time=163.495972</event>
+ <event>type=mechEyeUse;available=1;time=167.494492</event>
+ <event>type=healthChange;life=98;time=168.147537</event>
+ <event>type=healthChange;life=92;time=168.947693</event>
+ <event>type=healthChange;life=86;time=169.741409</event>
+ <event>type=healthChange;life=80;time=170.565750</event>
+ <event>type=healthChange;life=78;time=177.892563</event>
+ <event>type=healthChange;life=76;time=179.140671</event>
+ <event>type=healthChange;life=74;time=187.039291</event>
+ <event>type=healthChange;life=72;time=189.561798</event>
+ <event>type=itemUsed;item=cityDoorSwitch on:0;time=190.279007</event>
+ <event>type=healthChange;life=60;time=191.124542</event>
+ <event>type=healthChange;life=66;time=190.337280</event>
+ <event>type=healthChange;life=54;time=191.913620</event>
+ <event>type=healthChange;life=48;time=192.703079</event>
+ <event>type=healthChange;life=42;time=193.466980</event>
+ <event>type=healthChange;life=36;time=194.255081</event>
+ <event>type=healthChange;life=30;time=195.037720</event>
+ <event>type=healthChange;life=24;time=195.816040</event>
+ <event>type=healthChange;life=18;time=196.603500</event>
+ <event>type=healthChange;life=12;time=197.383560</event>
+ <event>type=healthChange;life=6;time=198.227478</event>
+ <event>type=healthChange;life=4;time=210.765976</event>
+ <event>type=healthChange;life=0;time=211.547958</event>
+ <event>type=event;event=playerDied;time=211.589569</event>
+</Root>

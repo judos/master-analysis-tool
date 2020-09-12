@@ -1,0 +1,9 @@
+<MetaData>
+ <Attributes>
+  <loading_video value=""/>
+  <loading_image value="Levels/Singleplayer/Emissaire/loadingemissaire.dds"/>
+  <unloading_image value="Levels/Singleplayer/Emissaire/loadingemissaire.dds"/>
+  <DescriptionText text="@Loading_screen_info_emissaire"/>
+ </Attributes>
+ <MiniMap Filename="emissaire.dds" startX="129.26437" startY="169.05627" endX="329.26437" endY="369.05627" width="4096" height="4096"/>
+</MetaData>

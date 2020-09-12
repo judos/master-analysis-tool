@@ -1,0 +1,44 @@
+<Root>
+ <event>type=healthChange;life=50;time=0.434640</event>
+ <event>type=itemUsed;item=lamps2;time=30.791609</event>
+ <event>type=healthChange;life=57;time=32.362988</event>
+ <event>type=healthChange;life=54;time=31.878819</event>
+ <event>type=healthChange;life=59;time=32.869091</event>
+ <event>type=healthChange;life=62;time=33.333168</event>
+ <event>type=itemUsed;item=lamps3;time=43.869141</event>
+ <event>type=healthChange;life=66;time=44.922958</event>
+ <event>type=healthChange;life=64;time=44.449329</event>
+ <event>type=healthChange;life=69;time=45.414619</event>
+ <event>type=healthChange;life=71;time=45.928139</event>
+ <event>type=healthChange;life=74;time=46.414310</event>
+ <event>type=itemUsed;item=lamps4;time=54.576729</event>
+ <event>type=healthChange;life=76;time=55.148190</event>
+ <event>type=healthChange;life=78;time=55.681038</event>
+ <event>type=healthChange;life=81;time=56.154789</event>
+ <event>type=healthChange;life=83;time=56.657059</event>
+ <event>type=healthChange;life=86;time=57.166088</event>
+ <event>type=itemUsed;item=door2 open:1;time=68.166420</event>
+ <event>type=healthChange;life=81;time=111.950287</event>
+ <event>type=healthChange;life=79;time=128.308517</event>
+ <event>type=healthChange;life=74;time=133.316284</event>
+ <event>type=itemUsed;item=lamps5;time=143.236298</event>
+ <event>type=healthChange;life=76;time=143.807053</event>
+ <event>type=healthChange;life=79;time=144.329575</event>
+ <event>type=healthChange;life=82;time=144.801529</event>
+ <event>type=healthChange;life=85;time=145.301865</event>
+ <event>type=healthChange;life=88;time=145.807877</event>
+ <event>type=healthChange;life=86;time=151.698196</event>
+ <event>type=healthChange;life=80;time=152.493866</event>
+ <event>type=healthChange;life=78;time=161.444351</event>
+ <event>type=healthChange;life=72;time=162.263474</event>
+ <event>type=healthChange;life=68;time=163.075958</event>
+ <event>type=healthChange;life=63;time=163.123444</event>
+ <event>type=healthChange;life=61;time=176.940002</event>
+ <event>type=itemUsed;item=checkPoint1;time=200.721481</event>
+ <event>type=healthChange;life=59;time=242.844254</event>
+ <event>type=healthChange;life=53;time=243.640686</event>
+ <event>type=healthChange;life=47;time=244.450241</event>
+ <event>type=healthChange;life=41;time=245.263138</event>
+ <event>type=healthChange;life=32;time=245.392090</event>
+ <event>type=healthChange;life=30;time=292.939606</event>
+</Root>
